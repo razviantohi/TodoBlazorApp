@@ -1,0 +1,17 @@
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\bin\Debug\net6.0\Todo.API.DataProvider.deps.json
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\bin\Debug\net6.0\Todo.API.DataProvider.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\bin\Debug\net6.0\Todo.API.DataProvider.pdb
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\bin\Debug\net6.0\Todo.Shared.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\bin\Debug\net6.0\Todo.Shared.pdb
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.csproj.AssemblyReference.cache
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.AssemblyInfoInputs.cache
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.AssemblyInfo.cs
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.csproj.CoreCompileInputs.cache
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.csproj.CopyComplete
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\refint\Todo.API.DataProvider.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.pdb
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\ref\Todo.API.DataProvider.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\bin\Debug\net6.0\Todo.API.DataProvider.runtimeconfig.json
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.API.DataProvider\obj\Debug\net6.0\Todo.API.DataProvider.genruntimeconfig.cache

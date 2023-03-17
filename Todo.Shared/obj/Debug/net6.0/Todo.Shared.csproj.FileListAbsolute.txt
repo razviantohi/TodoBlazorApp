@@ -1,0 +1,14 @@
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\bin\Debug\net6.0\Todo.Shared.deps.json
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\bin\Debug\net6.0\Todo.Shared.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\bin\Debug\net6.0\Todo.Shared.pdb
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.csproj.AssemblyReference.cache
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.AssemblyInfoInputs.cache
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.AssemblyInfo.cs
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\refint\Todo.Shared.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.pdb
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\ref\Todo.Shared.dll
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\bin\Debug\net6.0\Todo.Shared.runtimeconfig.json
+C:\Users\razvi\OneDrive\Documents\cegeka_work\homework-session3\ToDoBlazorApp\Todo.Shared\obj\Debug\net6.0\Todo.Shared.genruntimeconfig.cache
